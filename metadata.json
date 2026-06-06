@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrack",
+  "description": "Smart GPS Attendance Management System for Single College Deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
